@@ -135,3 +135,4 @@ DELETE FROM staging.cust_behaviour_staging a
 USING staging.cust_behaviour_staging b
 WHERE a.ctid < b.ctid
   AND a.customer_id = b.customer_id;
+
