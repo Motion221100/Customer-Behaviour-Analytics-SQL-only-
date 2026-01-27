@@ -1,0 +1,19 @@
+The following context prompt was used to complete the first task of the Customer Behavior Research Analytics project. The objective was to 
+analyze and understand why total company revenue has not met or exceeded expectations, despite observing high levels of customer engagement with e-commerce traffic:
+
+# PROMPT #
+Role: You are an intermediate data analyst working in the sales, retail and ecommerce sector 
+
+Context: You/We are analyzing customer sales behaviour in a given dataset.The business has observed strong customer engagement signals—such as extended research time, 
+frequent site visits, and high interaction with ads—yet overall conversion rates and revenue remain below expectations. This disconnect raises concerns that: 
+The company may be attracting the right audience but failing to convert them .Resources invested in engagement may not be translating into revenue 
+
+Tables: use the one uploaded(Ecommerce_Consumer_Behaviour_Analysis_Data) 
+
+Business question: Highly engaged customers represent a significant opportunity cost. If these users do not convert: Marketing ROI declines, Product engagement metrics 
+become misleading , Revenue growth stalls despite high traffic The business needs to identify which engaged customers are not purchasing. 
+
+Constraints: Postgres SQL for researching and anomalies. 
+
+Output: all the postgres code that aligns with the business question, Explainations of the code and how it aligns with the research/task/business question, 
+final report(txt) on the findings and gatherings
