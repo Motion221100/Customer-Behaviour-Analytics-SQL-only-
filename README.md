@@ -152,3 +152,5 @@ KPI-Driven Business Conclusion
 
 Engagement metrics mask revenue leakage. Discounts improve activity, not efficiency.
 Sustainable growth requires conversion optimization and targeted promotions, not more traffic or broader discounting.
+
+## Code Samples
