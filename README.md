@@ -376,3 +376,8 @@ ORDER BY purchase_intent, discount_used;
 ```
 ## How to use this Repo
 1. Make sure csv file is in secure postgres location in your computer inorder to use "COPY' feature for bulk ingestion.
+
+## Acknowledgements
+- Kaggle for providing the e-commerce dataset
+- Inspired by modern data engineering practices
+- Built for educational and analytical purposes
